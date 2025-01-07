@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/data/train/images
+val: /content/drive/MyDrive/data/valid/images
+test: /content/drive/MyDrive/data/test
+
+nc: 4
+names: ['name', 'old_price', 'price', 'promotion']
